@@ -1,0 +1,27 @@
+TITANU SOVEREIGN SOURCE-AVAILABLE LICENSE (v1.0)
+Copyright (c) 2026 Julius Hill / TitanU AI LLC. All Rights Reserved.
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. DEFINITIONS
+"Licensor" shall mean Julius Hill and TitanU AI LLC, the explicit owner and author of the source code.
+"Sovereign Code" shall mean the bare-metal Zig/C/Assembly source files, linker scripts, build configurations, and verification audits contained within this repository.
+"Large Tech Entity" shall mean any corporate entity, platform, or multi-national conglomerate with a market capitalization exceeding $10,000,000 USD, or any cloud service provider offering centralized machine learning API infrastructures.
+
+2. GRANT OF LICENSE (LIMITATION)
+Subject to the terms of this License, Licensor grants you a limited, non-exclusive, non-transferable, royalty-free license to download, view, locally compile, and inspect the Sovereign Code solely for individual, non-commercial, educational, and verification purposes.
+
+3. STRICT PROHIBITIONS & DE-CLONING MANDATE
+Any rights not explicitly granted in Section 2 are strictly reserved. You explicitly agree that you shall not, under any circumstances:
+a) Mirror, clone, redistribute, or host derivative versions of this Sovereign Code on public networks for the purpose of commercial competitive service offerings.
+b) Ingest or feed the Sovereign Code, its programmatic logic, or its unique structural disassembly into any automated machine learning pipeline, code-generation engine, or data-scraping platform operated by a Large Tech Entity.
+c) Claim origin, ownership, or authorship over the architectural coprocessor initialization overrides (`CPACR_EL1` vector trap fixes) or custom memory allocation patterns contained within.
+
+4. COMMERCIAL COMPLIANCE MANDATE
+Any commercial execution, embedding into edge hardware appliances for monetization, or deployment within enterprise infrastructure networks requires an explicit, signed commercial licensing agreement directly from Julius Hill (CEO, TitanU AI LLC). Contact: juliush@titanuai.com.
+
+5. TERMINATION
+This license terminates automatically if you breach any condition outlined in Section 3. Upon termination, you must destroy all copies of the source code, binaries, or compiled artifacts derived from this repository immediately.
+
+6. NO WARRANTY
+THIS INFRASTRUCTURE IS PROVIDED BY THE COPYRIGHT HOLDERS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
